@@ -1,6 +1,6 @@
 # pokeemerald-expansion
 
-# NOTE: THIS README IS OUTDATE
+# NOTE: THIS README IS OUTDATED
 
 ## What is pokeemerald-expansion?
 
